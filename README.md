@@ -6,13 +6,13 @@
 
 JavaScript implementation screenshot,There are two libraries used:
 
-> [`html2canvas.js`](https://github.com/niklasvh/html2canvas)  
-> [`canvas2image.js`](https://github.com/SuperAL/canvas2image)
+> [Html2Canvas.js](https://github.com/niklasvh/html2canvas)  
+> [Canvas2Image.js](https://github.com/SuperAL/canvas2image)
 
 I mainly made two demos:
 
-1. [Simple version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
-2. [`webpack+vue+element`version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
+1. [Simple Version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
+2. [Webpack+Vue+Element Version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
 
 ## Simple Version Of Use
 
