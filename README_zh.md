@@ -32,4 +32,4 @@ npm run build
 npm run build --report
 ```
 
-有关工作原理的详细说明，请查看[指南](http://vuejs-templates.github.io/webpack)和[`vue-loader`文档](http://vuejs.github.io/VUE装载机)。
+有关工作原理的详细说明，请查看[指南](http://vuejs-templates.github.io/webpack)和[`vue-loader`文档](http://vuejs.github.io/vue-loader)。
