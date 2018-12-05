@@ -1,6 +1,6 @@
 # JavaScript-screenshot
 
-[中文文档]()
+[中文文档](https://github.com/usecodelee/JavaScript-screenshot/blob/master/README_zh.md)
 
 JavaScript implementation screenshot,There are two libraries used:
 
