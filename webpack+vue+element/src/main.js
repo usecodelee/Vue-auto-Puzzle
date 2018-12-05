@@ -3,10 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-window.html2canvas = require('../node_modules/html2canvas');
-window.Canvas2Image = require('../node_modules/canvas2image/canvas2image.js');
 
-console.log(Canvas2Image);
+
+window.html2canvas = require('../node_modules/html2canvas');
+window.Canvas2Image = require('../node_modules/canvas2image').Canvas2Image;
+
+console.log(Canvas2Image.convertToImage);
 
 import ElementUI from '../node_modules/element-ui'
 
