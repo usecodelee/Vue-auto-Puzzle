@@ -25,10 +25,10 @@ npm install
 # 在localhost：8080进行热重新加载
 npm run dev
 
-# 为缩小生产而创建
+# 压缩构建为生产环境代码
 npm run build
 
-# 构建生产并查看捆绑分析器报告
+# 构建为生产环境代码并查看捆绑分析器报告
 npm run build --report
 ```
 
