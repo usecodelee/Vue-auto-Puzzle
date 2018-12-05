@@ -1,4 +1,13 @@
 # JavaScript-screenshot
-JavaScript implementation of a screenshot with `html2canvas.js` and `canvas2image.js`
 
-  [Blog address](http://caomage.com/2018/07/htmltoimg.html)
+[中文文档]()
+
+JavaScript implementation screenshot,There are two libraries used:
+
+> [`html2canvas.js`](https://github.com/niklasvh/html2canvas)
+> [`canvas2image.js`](https://github.com/SuperAL/canvas2image)
+
+I mainly made two demos:
+
+1. [Simple version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
+2. [`webpack+vue+element`version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
