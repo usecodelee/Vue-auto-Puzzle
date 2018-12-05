@@ -4,7 +4,7 @@
 
 JavaScript implementation screenshot,There are two libraries used:
 
-> [`html2canvas.js`](https://github.com/niklasvh/html2canvas)
+> [`html2canvas.js`](https://github.com/niklasvh/html2canvas)  
 > [`canvas2image.js`](https://github.com/SuperAL/canvas2image)
 
 I mainly made two demos:
