@@ -16,7 +16,7 @@ JavaScript实现网页截图，使用的库有两个：
 
 > 直接打开`index.html`即可
 
-## webpack+vue+element版的使用
+## Webpack+Vue+Element版的使用
 
 ``` bash
 # 安装依赖
