@@ -39,4 +39,8 @@ npm run build --report
 
 ## js-screenshot-for-npm的使用
 
-见[README.md](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
+```bash
+npm install --save js_screen_shots
+```
+
+详情见[README.md](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)

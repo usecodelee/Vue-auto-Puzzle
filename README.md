@@ -41,4 +41,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## js-screenshot-for-npm Of use
 
-see [README.md](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
+```bash
+npm install --save js_screen_shots
+```
+
+For details, see the document [README.md](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
