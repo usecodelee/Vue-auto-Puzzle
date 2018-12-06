@@ -35,7 +35,35 @@ npm run build
 npm run build --report
 ```
 
-有关工作原理的详细说明，请查看[指南](http://vuejs-templates.github.io/webpack)和[vue-loader文档](http://vuejs.github.io/vue-loader)。
+### 使用示例
+
+> 原始html是这样的：
+
+![原始html](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8A.png)
+
+> 这是元素节点：
+
+![元素节点](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8B.jpg)
+
+> 这是转成canvas之后：
+
+![转成canvas之后](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8A.jpg)
+
+> 这是元素节点：
+
+![元素节点](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8B.jpg)
+
+> 这是转成img之后：
+
+![转成img之后](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8A.jpg)
+
+> 这是元素节点：
+
+![元素节点](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8B.jpg)
+
+> 这是最终截图结果：
+
+![最终截图结果](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/4.jpg)
 
 ## js-screenshot-for-npm的使用
 

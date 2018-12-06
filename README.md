@@ -37,7 +37,35 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Example
+
+> The original html is like this：
+
+![The original html](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8A.png)
+
+> This is the element node：
+
+![element node](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8B.jpg)
+
+> This is after converting to canvas：
+
+![to canvas](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8A.jpg)
+
+> This is the element node：
+
+![element node](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8B.jpg)
+
+> This is after converting to img：
+
+![to img](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8A.jpg)
+
+> This is the element node：
+
+![element node](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8B.jpg)
+
+> This is the final result：
+
+![final result](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/4.jpg)
 
 ## js-screenshot-for-npm Of use
 
