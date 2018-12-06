@@ -282,4 +282,4 @@ var Canvas2Image = function() {
 
 
 
-export { html2canvas, Canvas2Image };
+export default { html2canvas, Canvas2Image };

@@ -1,6 +1,6 @@
 {
     "name": "js_screen_shots",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "javascript screenshot",
     "main": "js_screen_shot.js",
     "scripts": {
