@@ -11,7 +11,7 @@ JavaScript implementation screenshot,There are two libraries used:
 > [Html2Canvas.js](https://github.com/niklasvh/html2canvas)  
 > [Canvas2Image.js](https://github.com/SuperAL/canvas2image)
 
-I mainly made two demos:
+I mainly made two demos and one NPM package:
 
 1. [Simple Version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
 2. [Webpack+Vue+Element Version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
