@@ -41,31 +41,31 @@ npm run build --report
 
 > **The original html is like this：**
 
-![The original html](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8A.png)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8A.png" width="400" hegiht="500" align=center />
 
 > **This is the element node：**
 
-![element node](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8B.jpg)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8B.jpg" width="400" hegiht="500" align=center />
 
 > **This is after converting to canvas：**
 
-![to canvas](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8A.jpg)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8A.jpg" width="400" hegiht="500" align=center />
 
 > **This is the element node：**
 
-![element node](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8B.jpg)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/2%E4%B8%8B.jpg" width="400" hegiht="500" align=center />
 
 > **This is after converting to img：**
 
-![to img](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8A.jpg)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8A.jpg" width="400" hegiht="500" align=center />
 
 > **This is the element node：**
 
-![element node](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8B.jpg)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/3%E4%B8%8B.jpg" width="400" hegiht="500" align=center />
 
 > **This is the final result：**
 
-![final result](https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/4.jpg)
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/4.jpg" width="400" hegiht="500" align=center />
 
 ## js-screenshot-for-npm Of use
 
