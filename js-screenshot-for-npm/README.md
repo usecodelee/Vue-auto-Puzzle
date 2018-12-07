@@ -25,11 +25,11 @@ console.log(all);
 
 3.使用
 
-可以看见all对象里面有两个方法：html2canvas和Canvas2Image。
-html2canvas的作用是把html标签转化为canvas元素。
+可以看见all对象里面有两个方法：html2canvas和Canvas2Image。  
+html2canvas的作用是把html标签转化为canvas元素。  
 Canvas2Image的作用是把canvas元素转化为img元素。
 
 ## 参考文档
 
- [html2canvas文档](http://html2canvas.hertzen.com/documentation)
+ [html2canvas文档](http://html2canvas.hertzen.com/documentation)  
  [Canvas2Image文档](https://github.com/hongru/canvas2image)
