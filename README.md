@@ -73,4 +73,4 @@ npm run build --report
 npm install --save js_screen_shots
 ```
 
-For details, see the document [README.md](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
+For details, see the document [README.md](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm).
