@@ -41,7 +41,7 @@ npm run build --report
 
 > **The original html is like this：**
 
-<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8A.png" width="400" hegiht="500" align=center />
+<img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/1%E4%B8%8A.png" width="400" hegiht="500" align=center style="border:2px #ccc dashed;"/>
 
 > **This is the element node：**
 
