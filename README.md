@@ -67,7 +67,7 @@ npm run build --report
 
 <img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/4.jpg" width="400" hegiht="500" align=center />
 
-## js-screenshot-for-npm Of use
+## js-screenshot-for-npm
 
 ```bash
 npm install --save js_screen_shots
