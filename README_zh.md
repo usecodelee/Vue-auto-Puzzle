@@ -15,11 +15,11 @@ JavaScript实现网页截图，使用的库有两个：
 2. [Webpack+Vue+Element版的实现](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
 3. [js-screenshot-for-npm](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
 
-## 简单版使用
+## 如何使用简单版
 
 > 直接打开`index.html`即可
 
-## Webpack+Vue+Element版的使用
+## 如何使用Webpack+Vue+Element版
 
 ``` bash
 # 安装依赖
@@ -65,7 +65,7 @@ npm run build --report
 
 <img src="https://github.com/usecodelee/JavaScript-screenshot/blob/master/img/4.jpg" width="500" hegiht="313" align=center />
 
-## js-screenshot-npm的使用
+## 使用npm安装js_screen_shots
 
 ```bash
 npm install --save js_screen_shots
