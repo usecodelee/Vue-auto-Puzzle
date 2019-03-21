@@ -17,7 +17,7 @@ I mainly made two demos and one NPM package:
 2. [Webpack+Vue+Element Version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/simple)
 3. [js-screenshot-for-npm](https://github.com/usecodelee/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
 
-## Simple Version Of Use
+## Simple Version Of Use 
 
 > Open `index.html` directly in your browser.
 
