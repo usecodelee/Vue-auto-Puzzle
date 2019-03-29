@@ -1,5 +1,8 @@
 # Vue-auto-Puzzle
 
+[![star this repo](http://githubbadges.com/star.svg?user=usecodelee&repo=Vue-auto-Puzzle&style=flat&color=fff&background=CC6633)](https://github.com/usecodelee/Vue-auto-Puzzle)
+[![fork this repo](http://githubbadges.com/fork.svg?user=usecodelee&repo=Vue-auto-Puzzle&style=flat&color=fff&background=CC6633)](https://github.com/usecodelee/Vue-auto-Puzzle/fork)
+
 Jigsaw puzzle based on Vue  
 基于Vue的拼图小游戏  
   
