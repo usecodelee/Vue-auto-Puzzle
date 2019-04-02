@@ -7,7 +7,7 @@ Jigsaw puzzle based on Vue
 基于Vue的拼图小游戏  
   
 带有打乱时很炫酷的动画  
-![example](https://github.com/usecodelee/Vue-auto-Puzzle/blob/master/img/20190328.gif?raw=true) 
+![example](https://github.com/usecodelee/Vue-auto-Puzzle/blob/master/vue/img/20190328.gif?raw=true) 
 
 ## 增加自动拼图的功能
 
