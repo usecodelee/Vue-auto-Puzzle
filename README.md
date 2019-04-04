@@ -13,7 +13,7 @@ Jigsaw puzzle based on Vue
 
 ## 增加自动重新打乱开始的功能
 
-## 增加Weex（Android & iOS）
+## 增加Weex（Android & iOS） 
 
 ## 使用：
 
